@@ -1,3 +1,5 @@
+// Solution to an alteration to a USACO problem that my friend came up with
+
 #include <iostream>
 #include <vector>
 #include <functional>
