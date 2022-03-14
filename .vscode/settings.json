@@ -41,6 +41,11 @@
         "xutility": "cpp",
         "algorithm": "cpp",
         "cctype": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "set": "cpp",
+        "unordered_set": "cpp",
+        "xhash": "cpp",
+        "list": "cpp"
     }
 }
