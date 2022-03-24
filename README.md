@@ -1,7 +1,8 @@
 # USACO
 
 This is where I put all of my problems that I've solved for USACO.
-On the grind to USACO!
+
+On the grind to USACO Silver!
 
 ## Prefix Meanings
 
