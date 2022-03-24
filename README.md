@@ -1,8 +1,9 @@
 # USACO
 
 This is where I put all of my problems that I've solved for USACO.
+On the grind to USACO!
 
-## Prefix Meanins
+## Prefix Meanings
 
 [S] = Sucess
 
